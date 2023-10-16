@@ -107,23 +107,23 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Congratulations! Sukesh!! </h1>
-    <p>Your Docker Container is now running in Elastic Beanstalk on your own dedicated environment in the AWS Cloud.</p>
-    <p>This environment is launched with Elastic Beanstalk Docker Platform</p>
+    <h1>Congratulations! S </h1>
+    <p>You can start watch porn</p>
+    <p>This environment is helps you to become master in porn</p>
   </div>
   
   <div class="linksColumn"> 
-    <h2>Video Tutorials</h2>
+    <h2>Porn hub details</h2>
     <ul>
     <li>YouTube: <a href="https://www.youtube.com/watch?v=lBu7Ov3Rt-M&feature=youtu.be">Run a Docker Container from the Docker Registry</a></li>
     <li>YouTube: <a href="https://www.youtube.com/watch?v=pLw6MLqwmew&feature=youtu.be">Use Private Docker Repositories</a></li>
     </ul>
-    <h2>Sample Apps</h2>
+    <h2>fucking.com</h2>
     <ul>
     <li>GitHub: <a href="https://github.com/awslabs/eb-demo-php-simple-app/tree/docker-apache">PHP and Amazon RDS</a></li>
     <li>GitHub: <a href="https://github.com/awslabs/eb-py-flask-signup/tree/docker">Python, DynamoDB, and SNS</a></li>
     </ul>
-    <h2>Documentation</h2>
+    <h2>Desi.com videos</h2>
     <ul>
     <li><a href="http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_docker.html">Deploying Docker with AWS Elastic Beanstalk</a></li>
     <li><a href="http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/">AWS Elastic Beanstalk overview</a></li>
